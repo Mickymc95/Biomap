@@ -1,0 +1,4225 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014258,53.383288 ]
+    },
+    "properties": {
+    "Common name":"Common Chickweed",
+    "Scientific name":"Stellaria media",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N931379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"South side of Science Building",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Field-Speedwell",
+    "Scientific name":"Veronica Persica",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Between Arts block & Callan Bldg",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014552,53.38239 ]
+    },
+    "properties": {
+    "Common name":"Common Poppy",
+    "Scientific name":"Papaver Rhoeas",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N931378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"South side of Science Bldg",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Ramping-Fumitory",
+    "Scientific name":"Fumaria Muralis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Callan Building",
+    "Abundance":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014552,53.38239 ]
+    },
+    "properties": {
+    "Common name":"Creeping Buttercup",
+    "Scientific name":"Ranunculus Repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N931378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"between Arts Block & Science Block",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Daisy",
+    "Scientific name":"Bellis Perennis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Dandelion",
+    "Scientific name":"Taraxacum agg.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Groundsel",
+    "Scientific name":"Senecio vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Liverwort",
+    "Scientific name":"Marchantia polymorpha",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"base of lamp post, wildflower meadow",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014552,53.38239 ]
+    },
+    "properties": {
+    "Common name":"Red Dead-nettle",
+    "Scientific name":"Lamium purpureum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N931378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"between Arts Block & Science Bldg",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014552,53.38239 ]
+    },
+    "properties": {
+    "Common name":"Thale Cress",
+    "Scientific name":"Arabidopsis thaliana",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N931378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"south side of Science Building",
+    "Abundance":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014552,53.38239 ]
+    },
+    "properties": {
+    "Common name":"Wavy Bitter-cress",
+    "Scientific name":"Cardamine flexuosa",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42818,
+    "Grid":"N931378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"south side of Science Building",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015141,53.380593 ]
+    },
+    "properties": {
+    "Common name":"Coltsfoot",
+    "Scientific name":"Tussilago farfara",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N931376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"bank of Lyreen River, near Library",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029283,53.383306 ]
+    },
+    "properties": {
+    "Common name":"Common Field-speedwell",
+    "Scientific name":"Veronica persica",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N930379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"outside Callan building",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015141,53.380593 ]
+    },
+    "properties": {
+    "Common name":"Daisy",
+    "Scientific name":"Bellis perennis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N931376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Nth bank of Lyreen River, near Library",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015141,53.380593 ]
+    },
+    "properties": {
+    "Common name":"Dandelion",
+    "Scientific name":"Taraxacum agg.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N931376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Nth bank of Lyreen River, near Library",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015435,53.379695 ]
+    },
+    "properties": {
+    "Common name":"Garlic mustard",
+    "Scientific name":"Alliaria petiolata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N931375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Sth bank of Lyreen River",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015141,53.380593 ]
+    },
+    "properties": {
+    "Common name":"Groundsel",
+    "Scientific name":"Senecio vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N931376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Nth bank of Lyreen River, near Library",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000117,53.380576 ]
+    },
+    "properties": {
+    "Common name":"Herb-Robert",
+    "Scientific name":"Geranium robertianum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N932376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"South side of Library",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015141,53.380593 ]
+    },
+    "properties": {
+    "Common name":"Lesser Celandine",
+    "Scientific name":"Ficaria verna",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N931376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Nth bank of Lyreen River, near Library",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000117,53.380576 ]
+    },
+    "properties": {
+    "Common name":"Petty Spurge",
+    "Scientific name":"Euphorbia peplus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N932376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Nth bank of Lyreen River, near Library",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Primrose",
+    "Scientific name":"Primula vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42832,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Woodland at Library carpark",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Bluebell",
+    "Scientific name":"Hyacinthoides non-scripta",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42843,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Woodland at Library carpark",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Black Meddick",
+    "Scientific name":"Medicago lupulina",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6028989,53.384204 ]
+    },
+    "properties": {
+    "Common name":"Cleavers",
+    "Scientific name":"Galium aparine",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930380",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Gravel area between Arts Block & Bioscience Bldg",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6028989,53.384204 ]
+    },
+    "properties": {
+    "Common name":"Coltsfoot",
+    "Scientific name":"Tussilago farfara",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930380",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Gravel area between Arts Block & Bioscience Bldg",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Mouse-ear",
+    "Scientific name":"Cerastium fontanum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6028989,53.384204 ]
+    },
+    "properties": {
+    "Common name":"Common Nettle",
+    "Scientific name":"Urtica dioica",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930380",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Bioscience building",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6044015,53.384222 ]
+    },
+    "properties": {
+    "Common name":"Common Ramping-fumitory",
+    "Scientific name":"Fumaria muralis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N929380",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":" Bioscience building",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Ramping-fumitory",
+    "Scientific name":"Fumaria muralis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Science building",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029283,53.383306 ]
+    },
+    "properties": {
+    "Common name":"Cowslip",
+    "Scientific name":"Primula veris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"between Arts Block & Common room",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Cuckooflower",
+    "Scientific name":"Cardamine pratensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6028989,53.384204 ]
+    },
+    "properties": {
+    "Common name":"Herb-Robert",
+    "Scientific name":"Geranium robertianum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930380",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Bioscience building",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6028989,53.384204 ]
+    },
+    "properties": {
+    "Common name":"Petty Spurge",
+    "Scientific name":"Euphorbia peplus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930380",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Gravel area between Arts Block & Bioscience Bldg",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Red Clover",
+    "Scientific name":"Trifolium pratense",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029283,53.383306 ]
+    },
+    "properties": {
+    "Common name":"Ribwort Plantain",
+    "Scientific name":"Plantago lanceolata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"between Arts blk & Common rm",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6028989,53.384204 ]
+    },
+    "properties": {
+    "Common name":"Shining Crane's-Bill",
+    "Scientific name":"Geranium lucidum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930380",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Grass verge/shrub bed Sth side of Bioscience Bldg",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029283,53.383306 ]
+    },
+    "properties": {
+    "Common name":"Thyme-leaved Speedwell",
+    "Scientific name":"Veronica serpyllifolia",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42846,
+    "Grid":"N930379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"between Arts blk & Common rm",
+    "Abundance":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5999822,53.381474 ]
+    },
+    "properties": {
+    "Common name":"Bush Vetch",
+    "Scientific name":"Vicia sepium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42849,
+    "Grid":"N932377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"North side of Library, beside carpark",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Cock's-foot",
+    "Scientific name":"Dactylis glomerata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Ragwort",
+    "Scientific name":"Senecio jacobaea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Cowslip",
+    "Scientific name":"Primula veris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 2",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Creeping Buttercup",
+    "Scientific name":"Ranunculus repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Cut-leaved Crane's-bill",
+    "Scientific name":"Geranium dissectum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6043721,53.38512 ]
+    },
+    "properties": {
+    "Common name":"Cut-leaved Crane's-bill",
+    "Scientific name":"Geranium dissectum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N929381",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wooded area behind all weather pitch",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Lesser Trefoil",
+    "Scientific name":"Trifolium dubium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Ribwort Plantain",
+    "Scientific name":"Plantago lanceolata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014258,53.383288 ]
+    },
+    "properties": {
+    "Common name":"Sun Spurge",
+    "Scientific name":"Euphorbia helioscopia",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N931379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Beside steps to Arts Block, near ATM",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Sycamore",
+    "Scientific name":"Acer pseudoplatanus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Thyme-leaved Speedwell",
+    "Scientific name":"Veronica serpyllifolia",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Yorkshire-fog",
+    "Scientific name":"Holcus lanatus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42860,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014552,53.38239 ]
+    },
+    "properties": {
+    "Common name":"Scarlet Pimpernel",
+    "Scientific name":"Anagallis arvensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42864,
+    "Grid":"N931378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"south side of Science Building",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Germander Speedwell",
+    "Scientific name":"Veronica chamaedrys",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42865,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Woodland at Library carpark",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5970954,53.377845 ]
+    },
+    "properties": {
+    "Common name":"Ivy-leaved Toadflax",
+    "Scientific name":"Cymbalaria muralis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42865,
+    "Grid":"N934373",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Service bldgs opp old boiler house",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5985977,53.377863 ]
+    },
+    "properties": {
+    "Common name":"Ivy-leaved Toadflax",
+    "Scientific name":"Cymbalaria muralis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42865,
+    "Grid":"N933373",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wall of Junior Infirmary Gdn",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5970954,53.377845 ]
+    },
+    "properties": {
+    "Common name":"Red Valerian",
+    "Scientific name":"Centranthus ruber",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42865,
+    "Grid":"N934373",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Service bldgs opp old boiler house",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6030165,53.380611 ]
+    },
+    "properties": {
+    "Common name":"Scarlet Pimpernel",
+    "Scientific name":"Anagallis arvensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42865,
+    "Grid":"N930376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Grass verge at exit of new library carpark",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6044308,53.383323 ]
+    },
+    "properties": {
+    "Common name":"Common Stork's-bill",
+    "Scientific name":"Erodium cicutarium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42867,
+    "Grid":"N929379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"bank outside Phoenix restaurant",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Creeping Buttercup",
+    "Scientific name":"Ranunculus repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42874,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord building",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow Buttercup",
+    "Scientific name":"Ranunculus acris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42874,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6028989,53.384204 ]
+    },
+    "properties": {
+    "Common name":"Shepherd's-purse",
+    "Scientific name":"Capsella bursa-pastoris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42877,
+    "Grid":"N930380",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Gravel area between Arts Block & Bioscience Bldg",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"White Clover",
+    "Scientific name":"Trifolium repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42877,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6044308,53.383323 ]
+    },
+    "properties": {
+    "Common name":"Common Vetch",
+    "Scientific name":"Vicia sativa subsp. segetalis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42878,
+    "Grid":"N929379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"edge of flowerbed outside Phoenix restaurant",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5955044,53.380523 ]
+    },
+    "properties": {
+    "Common name":"Bramble",
+    "Scientific name":"Rubus fruticosus agg.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N935376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildlife area behind old IT centre",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5955044,53.380523 ]
+    },
+    "properties": {
+    "Common name":"Bush Vetch",
+    "Scientific name":"Vicia sepium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N935376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildlife area behind old IT centre",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Cleavers",
+    "Scientific name":"Galium aparine",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Orchard, near beehives ",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Cleavers",
+    "Scientific name":"Galium aparine",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord building",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000117,53.380576 ]
+    },
+    "properties": {
+    "Common name":"Common Bird's-foot-trefoil",
+    "Scientific name":"Lotus corniculatus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"bank of Lyreen River, near Library",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Common Chickweed",
+    "Scientific name":"Stellaria media",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord building",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Common Field-speedwell",
+    "Scientific name":"Veronica persica",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"WFM Sth Campus",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000117,53.380576 ]
+    },
+    "properties": {
+    "Common name":"Common Knapweed",
+    "Scientific name":"Centaurea nigra",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Nth bank of Lyreen River, near Library",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5985977,53.377863 ]
+    },
+    "properties": {
+    "Common name":"Common Nettle",
+    "Scientific name":"Urtica dioica",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933373",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Orchard",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5955044,53.380523 ]
+    },
+    "properties": {
+    "Common name":"Common Vetch",
+    "Scientific name":"Vicia sativa subsp. segetalis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N935376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildlife area behind old IT centre",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Cow Parsley",
+    "Scientific name":"Anthriscus sylvestris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Orchard, near beehives ",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Creeping Buttercup",
+    "Scientific name":"Ranunculus repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"WFM Sth Campus",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Daisy",
+    "Scientific name":"Bellis perennis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord building",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Daisy",
+    "Scientific name":"Bellis perennis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"WFM Sth Campus",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Field Forget-me-not",
+    "Scientific name":"Myosotis arvensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Outside Junior Infirmary, near WFM Sth Campus",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Ground-elder",
+    "Scientific name":"Aegopodium podagraria",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Orchard, near beehives ",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Groundsel",
+    "Scientific name":"Senecio vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord Bldg",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Herb-Robert",
+    "Scientific name":"Geranium robertianum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord Bldg",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Lesser Stitchwort",
+    "Scientific name":"Stellaria graminea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow, Sth Campus",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5955044,53.380523 ]
+    },
+    "properties": {
+    "Common name":"Meadow Buttercup",
+    "Scientific name":"Ranunculus acris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N935376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildlife area behind old IT centre",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Meadow Buttercup",
+    "Scientific name":"Ranunculus acris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow, Sth Campus",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000117,53.380576 ]
+    },
+    "properties": {
+    "Common name":"Oxeye Daisy",
+    "Scientific name":"Leucanthemum vulgare",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Nth bank of Lyreen River, near Library",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Petty Spurge",
+    "Scientific name":"Euphorbia peplus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Between Aula Maxima & Accord Bldg",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5955044,53.380523 ]
+    },
+    "properties": {
+    "Common name":"Red Clover",
+    "Scientific name":"Trifolium pratense",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N935376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildlife area behind old IT centre",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Red Clover",
+    "Scientific name":"Trifolium pratense",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"WFM sth Campus",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Red Clover",
+    "Scientific name":"Trifolium pratense",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord Bldg",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Red Dead-nettle",
+    "Scientific name":"Lamium purpureum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord Bldg",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5955044,53.380523 ]
+    },
+    "properties": {
+    "Common name":"Ribwort Plantain",
+    "Scientific name":"Plantago lanceolata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N935376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildlife area behind old IT centre",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Scarlet Pimpernel",
+    "Scientific name":"Anagallis arvensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"WFM sth Campus",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000411,53.379677 ]
+    },
+    "properties": {
+    "Common name":"Wood Avens",
+    "Scientific name":"Geum urbanum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42881,
+    "Grid":"N932375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Behind Accord Bldg",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015435,53.379695 ]
+    },
+    "properties": {
+    "Common name":"Dog Rose",
+    "Scientific name":"Rosa canina",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42884,
+    "Grid":"N931375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Hedge along path to playing pitches, past Columba centre",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015435,53.379695 ]
+    },
+    "properties": {
+    "Common name":"Druce's Crane's-bill",
+    "Scientific name":"Geranium x oxonianum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42884,
+    "Grid":"N931375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wooded area near Columba Centre",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5986272,53.376965 ]
+    },
+    "properties": {
+    "Common name":"Fairy Foxglove",
+    "Scientific name":"Erinus alpinus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42884,
+    "Grid":"N933372",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wall of Junior Infirmary Gdn",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000117,53.380576 ]
+    },
+    "properties": {
+    "Common name":"Fairy Foxglove",
+    "Scientific name":"Erinus alpinus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42884,
+    "Grid":"N932376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wall of Junior Columba Center",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015435,53.379695 ]
+    },
+    "properties": {
+    "Common name":"Holly",
+    "Scientific name":"Ilex aquifolium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42884,
+    "Grid":"N931375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wooded area near Columba Centre",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Bird's-foot-trefoil",
+    "Scientific name":"Lotus corniculatus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42888,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Curled Dock",
+    "Scientific name":"Rumex crispus ssp. crispus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42888,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Lesser Stitchwort",
+    "Scientific name":"Stellaria graminea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42888,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Oak",
+    "Scientific name":"Quercus spp.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42888,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Selfheal",
+    "Scientific name":"Prunella vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42888,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Smooth Hawk's-beard",
+    "Scientific name":"Crepis capillaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42888,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Bramble",
+    "Scientific name":"Rubus fruticosus agg.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"overflow carpark at Library",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Cleavers",
+    "Scientific name":"Galium aparine",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Woodland at Library carpark",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Common Figwort",
+    "Scientific name":"Scrophularia nodosa",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Overflow carpark at Library",
+    "Abundance":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Common Nettle",
+    "Scientific name":"Urtica dioica",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Overflow carpark at Library",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Spotted Orchid",
+    "Scientific name":"Dactylorhiza fuchsii ssp. fuchsii",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Dog Rose",
+    "Scientific name":"Rosa canina",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Woodland at Library carpark",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Hedge Mustard",
+    "Scientific name":"Sisymbrium officinale",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Overflow carpark at Library",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Herb-Robert",
+    "Scientific name":"Geranium robertianum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"woodland at Library carpark",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Hogweed",
+    "Scientific name":"Heracleum sphondylium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"woodland at Library carpark",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Holly",
+    "Scientific name":"Ilex aquifolium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Gravel area beside Callan",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow Vetchling",
+    "Scientific name":"Lathyrus pratensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Oxeye Daisy",
+    "Scientific name":"Leucanthemum vulgare",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 3",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Procumbent Pearlwort",
+    "Scientific name":"Sagina procumbens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42902,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Woodland at Library carpark",
+    "Abundance":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Bee Orchid",
+    "Scientific name":"Ophrys apifera",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42919,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 3",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Creeping Cinquefoil",
+    "Scientific name":"Potentilla reptans",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42919,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000117,53.380576 ]
+    },
+    "properties": {
+    "Common name":"Creeping Cinquefoil",
+    "Scientific name":"Potentilla reptans",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42919,
+    "Grid":"N932376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Nth bank of Lyreen River, near Library",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6015435,53.379695 ]
+    },
+    "properties": {
+    "Common name":"Meadowsweet",
+    "Scientific name":"Filipendula ulmaria",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42919,
+    "Grid":"N931375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Hedge along path to playing pitches, past Columba centre",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.863784,51.218268 ]
+    },
+    "properties": {
+    "Common name":"Nipplewort",
+    "Scientific name":"Lapsana communis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42919,
+    "Grid":"N9331375",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Hedge along path to playing pitches, near Columba Center",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6044602,53.382425 ]
+    },
+    "properties": {
+    "Common name":"Cut-leaved Crane's-bill",
+    "Scientific name":"Geranium dissectum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42921,
+    "Grid":"N929378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Grass bank between SU carpark & SU",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000698,53.287113 ]
+    },
+    "properties": {
+    "Common name":"Druce's Crane's-bill",
+    "Scientific name":"Geranium x oxonianum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42922,
+    "Grid":"N934272",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wooded edge of path near WFM, Sth Campus1",
+    "Abundance":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Alder",
+    "Scientific name":"Alnus glutinosa",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42926,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Library carpark",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Atlantic Ivy",
+    "Scientific name":"Hedera hibernica",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42926,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Library carpark",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6000117,53.380576 ]
+    },
+    "properties": {
+    "Common name":"Butterfly-bush",
+    "Scientific name":"Buddleja davidii",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42926,
+    "Grid":"N932376",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"bank of Lyreen River, near Library",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Butterfly-bush",
+    "Scientific name":"Buddleja davidii",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42926,
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Library carpark",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6061094,53.377951 ]
+    },
+    "properties": {
+    "Common name":"Hogweed",
+    "Scientific name":"Heracleum sphondylium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42926,
+    "Grid":"N928373",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"path along pitches behind St Pat's",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6060801,53.378849 ]
+    },
+    "properties": {
+    "Common name":"Hogweed",
+    "Scientific name":"Heracleum sphondylium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42926,
+    "Grid":"N928374",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"path along pitches behind St Pat's",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Bee Orchid",
+    "Scientific name":"Ophrys apifera",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 3",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Black Meddick",
+    "Scientific name":"Medicago lupulina",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Cock's-foot",
+    "Scientific name":"Dactylis glomerata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Bird's-foot-trefoil",
+    "Scientific name":"Lotus corniculatus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Mouse-ear",
+    "Scientific name":"Cerastium fontanum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow  2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Mouse-ear",
+    "Scientific name":"Cerastium fontanum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common ragwort",
+    "Scientific name":"Senecio jacobaea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Spotted Orchid",
+    "Scientific name":"Dactylorhiza fuchsii ssp. fuchsii",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029283,53.383306 ]
+    },
+    "properties": {
+    "Common name":"Cowslip",
+    "Scientific name":"Primula veris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow  2",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Creeping buttercup",
+    "Scientific name":"Ranunculus repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Creeping cinqfoil",
+    "Scientific name":"Potentilla reptans",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Curled Dock",
+    "Scientific name":"Rumex crispus ssp. crispus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Daisy",
+    "Scientific name":"Bellis perennis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Evening Primrose",
+    "Scientific name":"Oenothera glazioviana",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Groundsel",
+    "Scientific name":"Senecio vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Lesser Stitchwort",
+    "Scientific name":"Stellaria graminea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Lesser trefoil",
+    "Scientific name":"Trifolium dubium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow Buttercup",
+    "Scientific name":"Ranunculus acris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow Vetchling",
+    "Scientific name":"Lathyrus pratensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Oak",
+    "Scientific name":"Quercus spp.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Oxeye daisy",
+    "Scientific name":"Leucanthemum vulgare",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Red Clover",
+    "Scientific name":"Trifolium pratense",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Ribwort plantain",
+    "Scientific name":"Plantago lanceolata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Selfheal",
+    "Scientific name":"Prunella vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Smooth Hawk's-beard",
+    "Scientific name":"Crepis capillaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Spear thistle",
+    "Scientific name":"Cirsium vulgare",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"White Clover",
+    "Scientific name":"Trifolium repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 3",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Willowherb",
+    "Scientific name":"Epilobium sp.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Yarrow",
+    "Scientific name":"Achillea millefolium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 4",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Yorkshire-fog",
+    "Scientific name":"Holcus lanatus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42930,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 3",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Black Meddick",
+    "Scientific name":"Medicago lupulina",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Cock's-foot",
+    "Scientific name":"Dactylis glomerata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Bird's-foot-trefoil",
+    "Scientific name":"Lotus corniculatus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Mouse-ear",
+    "Scientific name":"Cerastium fontanum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow  2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common ragwort",
+    "Scientific name":"Senecio jacobaea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Spotted Orchid",
+    "Scientific name":"Dactylorhiza fuchsii ssp. fuchsii",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029283,53.383306 ]
+    },
+    "properties": {
+    "Common name":"Cowslip",
+    "Scientific name":"Primula veris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow  2",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Creeping buttercup",
+    "Scientific name":"Ranunculus repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Creeping cinqfoil",
+    "Scientific name":"Potentilla reptans",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Curled Dock",
+    "Scientific name":"Rumex crispus ssp. crispus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Daisy",
+    "Scientific name":"Bellis perennis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Dandelion",
+    "Scientific name":"Taraxacum agg.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 2",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Evening Primrose",
+    "Scientific name":"Oenothera glazioviana",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Groundsel",
+    "Scientific name":"Senecio vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Holly",
+    "Scientific name":"Ilex aquifolium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 3",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Lesser Stitchwort",
+    "Scientific name":"Stellaria graminea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow Buttercup",
+    "Scientific name":"Ranunculus acris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow Vetchling",
+    "Scientific name":"Lathyrus pratensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Oak",
+    "Scientific name":"Quercus spp.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Red Clover",
+    "Scientific name":"Trifolium pratense",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Ribwort plantain",
+    "Scientific name":"Plantago lanceolata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Selfheal",
+    "Scientific name":"Prunella vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Smooth Hawk's-beard",
+    "Scientific name":"Crepis capillaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Spear thistle",
+    "Scientific name":"Cirsium vulgare",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"White Clover",
+    "Scientific name":"Trifolium repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 3",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Willowherb",
+    "Scientific name":"Epilobium sp.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Yorkshire-fog",
+    "Scientific name":"Holcus lanatus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42944,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Black Meddick",
+    "Scientific name":"Medicago lupulina",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Cock's-foot",
+    "Scientific name":"Dactylis glomerata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Bird's-foot-trefoil",
+    "Scientific name":"Lotus corniculatus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Mouse-ear",
+    "Scientific name":"Cerastium fontanum",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow  2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common ragwort",
+    "Scientific name":"Senecio jacobaea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common Spotted Orchid",
+    "Scientific name":"Dactylorhiza fuchsii ssp. fuchsii",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029283,53.383306 ]
+    },
+    "properties": {
+    "Common name":"Cowslip",
+    "Scientific name":"Primula veris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930379",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow  2",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Creeping buttercup",
+    "Scientific name":"Ranunculus repens",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Creeping cinqfoil",
+    "Scientific name":"Potentilla reptans",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Curled Dock",
+    "Scientific name":"Rumex crispus ssp. crispus",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Daisy",
+    "Scientific name":"Bellis perennis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Dandelion",
+    "Scientific name":"Taraxacum agg.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 2",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Evening Primrose",
+    "Scientific name":"Oenothera glazioviana",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Lesser Stitchwort",
+    "Scientific name":"Stellaria graminea",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 3",
+    "Abundance":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Lesser trefoil",
+    "Scientific name":"Trifolium dubium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow Buttercup",
+    "Scientific name":"Ranunculus acris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow Vetchling",
+    "Scientific name":"Lathyrus pratensis",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Oak",
+    "Scientific name":"Quercus spp.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Red Clover",
+    "Scientific name":"Trifolium pratense",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Ribwort plantain",
+    "Scientific name":"Plantago lanceolata",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Selfheal",
+    "Scientific name":"Prunella vulgaris",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Spear thistle",
+    "Scientific name":"Cirsium vulgare",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Willowherb",
+    "Scientific name":"Epilobium sp.",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 2",
+    "Abundance":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Yarrow",
+    "Scientific name":"Achillea millefolium",
+    "Location":"Maynooth University",
+    "Source":"General Records",
+    "Date":42957,
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"wildflower meadow 1, 4",
+    "Abundance":10
+    }
+  }
+]
+}
