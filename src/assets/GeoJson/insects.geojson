@@ -1,0 +1,786 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"7 Spot Ladybird",
+    "Scientific name":"Coccinella setempunctata",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow  1",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Buff-tailed bumblebee",
+    "Scientific name":"Bombus terrestris",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow  1",
+    "Abundance":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common carder bee",
+    "Scientific name":"Bombus pascorum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow  1, 3",
+    "Abundance":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Early bumblebee",
+    "Scientific name":"Bombus pratorum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow  1, 3",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Hoverfly",
+    "Scientific name":"Syrphus spp.",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow  1",
+    "Abundance":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Large carder bee",
+    "Scientific name":"Bombus muscorum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow  1, 3",
+    "Abundance":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Red-tailed bumblebee",
+    "Scientific name":"Bombus lapidarius",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow  1, 3",
+    "Abundance":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Small Magpie moth",
+    "Scientific name":"Anania hortulata",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Callan building",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"White-tailed bumblebee",
+    "Scientific name":"Bombus leucorum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42888",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow  1, 3",
+    "Abundance":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Leaf Beetle",
+    "Scientific name":"Chrysolina bankii",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42894",
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Overflow carpark at Library",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.602987902,53.382409802 ]
+    },
+    "properties": {
+    "Common name":"Buff-tailed bumblebee",
+    "Scientific name":"Bombus terrestris",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42902",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 3",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6014847,53.381492 ]
+    },
+    "properties": {
+    "Common name":"Common Yellow Dung Fly ",
+    "Scientific name":"Scathophaga stercoraria",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42902",
+    "Grid":"N931377",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Overflow carpark at Library",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Red-tailed bumblebee",
+    "Scientific name":"Bombus lapidarius",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42902",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"6 spot Burnet moth",
+    "Scientific name":"Zygaena filipendulae",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 3",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"7 Spot Ladybird",
+    "Scientific name":"Coccinella setempunctata",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Buff-tailed bumblebee",
+    "Scientific name":"Bombus terrestris",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common blue",
+    "Scientific name":"Polyommatus icarus",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common carder bee",
+    "Scientific name":"Bombus pascorum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Gadren bumblebee",
+    "Scientific name":"Bombus hortorum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow brown",
+    "Scientific name":"Maniola jurtina",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow brown",
+    "Scientific name":"Maniola jurtina",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Red-tailed bumblebee",
+    "Scientific name":"Bombus lapidarius",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"",
+    "Scientific name":"Bombus lucorum agg.",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42919",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Jim Carolan",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common red Soldier beetle",
+    "Scientific name":"Rhagonycha fulva",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42921",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"7-spot ladybird",
+    "Scientific name":"Coccinella setempunctata",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42930",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3, 4",
+    "Abundance":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Buff-tailed bumblebee",
+    "Scientific name":"Bombus terrestris",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42930",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3, 4",
+    "Abundance":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common carder bee",
+    "Scientific name":"Bombus pascourum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42930",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3, 4",
+    "Abundance":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Hoverfly",
+    "Scientific name":"Eristalis sp.",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42930",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3, 4",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Meadow brown",
+    "Scientific name":"Maniola jurtina",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42930",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3, 4",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Red-tailed bumblebee",
+    "Scientific name":"Bombus lapidarius",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42930",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3, 4",
+    "Abundance":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"7-spot ladybird",
+    "Scientific name":"Coccinella setempunctata",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42944",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3, 4",
+    "Abundance":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common blue",
+    "Scientific name":"Polyommatus icarus",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42944",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 3",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common carder bee",
+    "Scientific name":"Bombus pascourum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42944",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3",
+    "Abundance":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common red Soldier beetle",
+    "Scientific name":"Rhagonycha fulva",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42944",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Cranefly",
+    "Scientific name":"Tipula sp.",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42944",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Hairy / Sloe Shieldbug",
+    "Scientific name":"Dolycoris baccarum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42944",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"7-spot ladybird",
+    "Scientific name":"Coccinella setempunctata",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42957",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3, 4",
+    "Abundance":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common blue",
+    "Scientific name":"Polyommatus icarus",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42957",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 3",
+    "Abundance":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.6029577,53.382408 ]
+    },
+    "properties": {
+    "Common name":"Common carder bee",
+    "Scientific name":"Bombus pascourum",
+    "Location":"Maynooth University",
+    "Source":"General records",
+    "Date":"42957",
+    "Grid":"N930378",
+    "Recorder":"Gail Maher",
+    "Determiner":"Gail Maher",
+    "County":"Kildare",
+    "Comment":"Wildflower meadow 1, 2, 3",
+    "Abundance":"4"
+    }
+  }
+]
+}

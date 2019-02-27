@@ -1,5 +1,7 @@
 {
   "name": "Biomap",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
