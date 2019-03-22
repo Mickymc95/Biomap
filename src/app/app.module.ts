@@ -8,14 +8,19 @@ import { Geolocation } from '@ionic-native/geolocation/ngx';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
-import { ListPage } from '../pages/list/list';
+import { CallanPage } from '../pages/callan/callan';
+import { LibraryPage } from '../pages/library/library';
+import { JuniorPage } from '../pages/junior/junior';
+
 
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
-    ListPage
+    CallanPage,
+    LibraryPage,
+    JuniorPage
   ],
   imports: [
     BrowserModule,
@@ -26,7 +31,9 @@ import { ListPage } from '../pages/list/list';
   entryComponents: [
     MyApp,
     HomePage,
-    ListPage
+    CallanPage,
+    LibraryPage,
+    JuniorPage
   ],
   providers: [
     StatusBar,

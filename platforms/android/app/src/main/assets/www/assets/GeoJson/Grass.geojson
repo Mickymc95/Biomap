@@ -2445,7 +2445,7 @@
         "@id": "way/223520671",
         "landuse": "grass",
 
-        "<br>1" :  "<img src='./assets/Photos/Library Bed/Library Bed 1.png'</img></br>", 
+        "<br>1" :  "<img src='./assets/Photos/Library Bed/Library Bed 1.png'</img>", 
         "<br>2" :  "<img src='./assets/Photos/Library Bed/Library Bed 2.png'</img></br>"
       },
       "geometry": {

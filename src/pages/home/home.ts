@@ -4,8 +4,9 @@ import { HttpClient } from '@angular/common/http';
 
 import 'rxjs/add/operator/map';
 
-import L from "leaflet";//L represents leaflet funtions
-import 'leaflet.locatecontrol';
+import L from "leaflet";//import leaflet - L represents leaflet funtions
+import 'leaflet.locatecontrol';//import leaflet geolocation function
+
 
 @Component({
   selector: 'page-home',
@@ -19,12 +20,12 @@ export class HomePage {
   }
 
    ionViewDidLoad() {
-    
+    console.log('ionViewDidLoad Map/HomePage');
     this.loadmap();
   }
 
    loadmap(){
-     // <!-- Starting latitude and longitude of the center of the map -->
+    // <!-- Starting latitude and longitude of the center of the map -->
     //<!-- Here is the CENTER coordinates of our map -->
     var LatitudeCenter = 53.3819;
     var LongitudeCenter = -6.60009;
@@ -45,43 +46,43 @@ export class HomePage {
      }).addTo(map);
 
   
-    //<!-- Select our background layers - Usually from the Leaflet Layer Providers website -->
-    //<!-- The first layer here will be the one which is 'switched on' when the user loads the page -->
+    //Select our background layers - Usually from the Leaflet Layer Providers website
+    //The first layer here will be the one which is 'switched on' when the user loads the page
 
     var OpenStreetMap_Mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
-      //attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'///////////////////////////////////////////////////////Legal stuff *********
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     });
     map.addLayer(OpenStreetMap_Mapnik);
 
     var Esri_WorldImagery = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-      //attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'//Legal stuff *********
+      attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
     });
     map.addLayer(Esri_WorldImagery);
 
     // Assigning links for custom markers to add to the map 
-        
+                //custom tree icon
                 var treeIcon = new L.icon({
                     iconUrl: "./assets/icon/TreeIcon.png",
                     iconSize: [15, 25],
                     iconAnchor: [7.5156, 25],
                     popupAnchor: [0, -20]
-        });
-        
+                 });
+                //custom insect icon
                 var insectIcon = new L.icon({
                     iconUrl: "./assets/icon/insectIcon.png",
                     iconSize: [30, 30],
                     iconAnchor: [15, 20],
                     popupAnchor: [0, -20]
                 });
-
+                //custom plant icon
                 var plantIcon = new L.icon({
                     iconUrl: "./assets/icon/plantIcon.png",
                     iconSize: [30, 30],
                     iconAnchor: [15, 20],
                     popupAnchor: [0, -20]
                 });
-                
+                //custom meadow icon
                 var meadowIcon = new L.icon({
                     iconUrl: "./assets/icon/wildflowerIcon.png",
                     iconSize: [30, 30],
@@ -158,7 +159,7 @@ export class HomePage {
   // We are going to make a group for our overlay layer 
 
    
-var MUTreeLayer = L.layerGroup();
+var MUTreeLayer = L.layerGroup();//create tree layer group
     
 
    this.http.get('./assets/GeoJson/Trees.geojson').subscribe(data => {
@@ -188,7 +189,7 @@ var MUTreeLayer = L.layerGroup();
   // We need to make a special LAYER for our GeoJson 
   // We are going to make a group for our overlay layer 
 
-var WildFlowerMeadowLayer = L.layerGroup();
+var WildFlowerMeadowLayer = L.layerGroup();//create wild flower meadow layer group
 
     this.http.get('./assets/GeoJson/meadow.geojson').subscribe(data => {
               
@@ -217,7 +218,7 @@ var WildFlowerMeadowLayer = L.layerGroup();
   // We need to make a special LAYER for our GeoJson 
   // We are going to make a group for our overlay layer 
 
-var InsectsLayer = L.layerGroup();
+var InsectsLayer = L.layerGroup();//create insect layer group
 
     this.http.get('./assets/GeoJson/insects.geojson').subscribe(data => {
               
@@ -246,7 +247,7 @@ var InsectsLayer = L.layerGroup();
   // We need to make a special LAYER for our GeoJson 
   // We are going to make a group for our overlay layer 
 
-var BiodiversityHotspotsLayer = L.layerGroup();
+var BiodiversityHotspotsLayer = L.layerGroup();//create hotspot layer group
 
     this.http.get('./assets/GeoJson/10Sites.geojson').subscribe(data => {
               
@@ -267,7 +268,7 @@ var BiodiversityHotspotsLayer = L.layerGroup();
   // We need to make a special LAYER for our GeoJson 
   // We are going to make a group for our overlay layer 
 
-var AllPlantsLayer = L.layerGroup();
+var AllPlantsLayer = L.layerGroup();//create plant layer group
 
     this.http.get('./assets/GeoJson/AllPlants.geojson').subscribe(data => {
               
@@ -295,7 +296,7 @@ var AllPlantsLayer = L.layerGroup();
   // We need to make a special LAYER for our GeoJson 
   // We are going to make a group for our overlay layer 
   
-var MUGrassLayer = L.layerGroup();
+var MUGrassLayer = L.layerGroup();//create grass layer group
     
     this.http.get('./assets/GeoJson/Grass.geojson').subscribe(data => {
               
@@ -315,7 +316,7 @@ var MUGrassLayer = L.layerGroup();
   // We need to make a special LAYER for our GeoJson 
   // We are going to make a group for our overlay layer 
 
-var HabitatLayer = L.layerGroup();
+var HabitatLayer = L.layerGroup();//create habitat layer group
 
     this.http.get('./assets/GeoJson/Habitat.geojson').subscribe(data => {
               
@@ -334,7 +335,7 @@ var HabitatLayer = L.layerGroup();
   // We need to make a special LAYER for our GeoJson 
   // We are going to make a group for our overlay layer 
 
-var LyreenWalkLayer = L.layerGroup();
+var LyreenWalkLayer = L.layerGroup();//create lyreenWalkingRoute layer group
 
     this.http.get('./assets/GeoJson/LyreenWalk.geojson').subscribe(data => {
               
@@ -369,7 +370,7 @@ var LyreenWalkLayer = L.layerGroup();
         "Habitat":HabitatLayer,
         "2.8km Walking Route":LyreenWalkLayer};
 
-        // This creates the layer switcher in the top corner of your map container 
+        // This creates the layer switcher in the top corner of the map container 
         // This allows you to switch between the layers - turning them on or off 
 
         L.control.layers(backgroundLayerNames,overlayGeoLayerNames).addTo(map);
@@ -405,7 +406,7 @@ var LyreenWalkLayer = L.layerGroup();
                 
                 
                 
-        
+        //This is were fossits styles are applied 
         function style_for_geojson(feature) {
             if (feature.properties.Fossitt_Code) // check that this property is not null
             {
