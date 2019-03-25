@@ -37,7 +37,9 @@ export class HomePage {
       zoom: ZoomLevel,
     });
 
-    //Adds locate button and locate function
+    
+
+   //Adds locate button and locate function
      L.control.locate({
        locateOptions: {
          maxZoom: 17, //set maxZoom for locate button

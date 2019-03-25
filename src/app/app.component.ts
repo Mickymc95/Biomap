@@ -7,6 +7,7 @@ import { HomePage } from '../pages/home/home';
 import { CallanPage } from '../pages/callan/callan';
 import { LibraryPage } from '../pages/library/library';
 import { JuniorPage } from '../pages/junior/junior';
+import { FossitCodePage } from '../pages/fossit-code/fossit-code';
 
 
 
@@ -28,7 +29,8 @@ export class MyApp {
       { title: 'Biodiversity Map', component: HomePage },
       { title: 'Callan Wildflower Meadow', component: CallanPage },
       { title: 'Library Bed', component: LibraryPage },
-      { title: 'Junior Garden and Orchard', component: JuniorPage }
+      { title: 'Junior Garden and Orchard', component: JuniorPage },
+      { title: 'Fossitt Code Table', component: FossitCodePage}
 
     ];
 

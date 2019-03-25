@@ -11,6 +11,7 @@ import { HomePage } from '../pages/home/home';
 import { CallanPage } from '../pages/callan/callan';
 import { LibraryPage } from '../pages/library/library';
 import { JuniorPage } from '../pages/junior/junior';
+import { FossitCodePage } from '../pages/fossit-code/fossit-code';
 
 
 
@@ -20,7 +21,8 @@ import { JuniorPage } from '../pages/junior/junior';
     HomePage,
     CallanPage,
     LibraryPage,
-    JuniorPage
+    JuniorPage, 
+    FossitCodePage
   ],
   imports: [
     BrowserModule,
@@ -33,7 +35,8 @@ import { JuniorPage } from '../pages/junior/junior';
     HomePage,
     CallanPage,
     LibraryPage,
-    JuniorPage
+    JuniorPage,
+    FossitCodePage
   ],
   providers: [
     StatusBar,

@@ -24,8 +24,7 @@
     {
         "Name":"Callan Wildflower Meadow",
         "Site No":2,
-        " " : "<a href='list.html'>Click here for more Information on the Callan Meadow</a>",
-        "<br>1" :  "<img src='./assets/Photos/Callan Word file pictures/pic2-meadow.jpg'</img></br>" 
+        "<br>" :  "<img src='./assets/Photos/Callan Word file pictures/pic2-meadow.jpg'</img></br>" 
 
     },
     "geometry":

@@ -5,7 +5,9 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"GS2"
+        "Fossitt_Code":"GS2",
+        "Description": "Dry meadows and grassy verges"
+
     },
     "geometry":
     {
@@ -60,7 +62,8 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"GA2"
+        "Fossitt_Code":"GA2",
+        "Description": "Amenity Grassland"
     },
     "geometry":
     {
@@ -199,7 +202,8 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"WD1"
+        "Fossitt_Code":"WD1",
+        "Description": "(Mixed) Broadleaf Woodland"
     },
     "geometry":
     {
@@ -263,7 +267,8 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"WD2"
+        "Fossitt_Code":"WD2",
+        "Description": "Mixed Broadleaf/Conifer Woodland"
     },
     "geometry":
     {
@@ -298,7 +303,8 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"WD5"
+        "Fossitt_Code":"WD5",
+        "Description": "Scattered Trees and Parkland"
     },
     "geometry":
     {
@@ -418,7 +424,8 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"WL1"
+        "Fossitt_Code":"WL1",
+        "Description": "Hedgerows"
     },
     "geometry":
     {
@@ -439,7 +446,8 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"WL2"
+        "Fossitt_Code":"WL2",
+        "Description": "Treelines"
     },
     "geometry":
     {
@@ -515,7 +523,8 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"WS2"
+        "Fossitt_Code":"WS2",
+        "Description": "Immature Woodland"
     },
     "geometry":
     {
@@ -537,7 +546,8 @@
     "type":"Feature",
     "properties":
     {
-        "Fossitt_Code":"BC4"
+        "Fossitt_Code":"BC4",
+        "Description": "Flower Beds and Borders"
     },
     "geometry":
     {

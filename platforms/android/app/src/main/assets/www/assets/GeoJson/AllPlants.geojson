@@ -2425,26 +2425,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -10.863784,51.218268 ]
-    },
-    "properties": {
-    "Common name":"Nipplewort",
-    "Scientific name":"Lapsana communis",
-    "Location":"Maynooth University",
-    "Source":"General Records",
-    "Date":42919,
-    "Grid":"N9331375",
-    "Recorder":"Gail Maher",
-    "Determiner":"Gail Maher",
-    "County":"Kildare",
-    "Comment":"Hedge along path to playing pitches, near Columba Center",
-    "Abundance":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -6.6044602,53.382425 ]
     },
     "properties": {
@@ -2459,26 +2439,6 @@
     "County":"Kildare",
     "Comment":"Grass bank between SU carpark & SU",
     "Abundance":1
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -6.6000698,53.287113 ]
-    },
-    "properties": {
-    "Common name":"Druce's Crane's-bill",
-    "Scientific name":"Geranium x oxonianum",
-    "Location":"Maynooth University",
-    "Source":"General Records",
-    "Date":42922,
-    "Grid":"N934272",
-    "Recorder":"Gail Maher",
-    "Determiner":"Gail Maher",
-    "County":"Kildare",
-    "Comment":"Wooded edge of path near WFM, Sth Campus1",
-    "Abundance":null
     }
   },
   {
