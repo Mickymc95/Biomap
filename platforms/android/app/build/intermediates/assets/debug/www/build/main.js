@@ -207,8 +207,8 @@ var HomePage = /** @class */ (function () {
         this.navCtrl = navCtrl;
         this.http = http;
     }
-    HomePage.prototype.ionViewDidLoad = function () {
-        console.log('ionViewDidLoad Map/HomePage');
+    HomePage.prototype.ionViewDidEnter = function () {
+        console.log('ionViewDidEnter Map/HomePage');
         this.loadmap();
     };
     HomePage.prototype.loadmap = function () {
@@ -218,7 +218,7 @@ var HomePage = /** @class */ (function () {
         var LongitudeCenter = -6.60009;
         //<!-- Here is the starting zoom level of our map -->
         var ZoomLevel = 15.4;
-        var map = __WEBPACK_IMPORTED_MODULE_4_leaflet___default.a.map('map', {
+        this.map = __WEBPACK_IMPORTED_MODULE_4_leaflet___default.a.map('map', {
             center: [LatitudeCenter, LongitudeCenter],
             zoom: ZoomLevel,
         });
@@ -228,18 +228,18 @@ var HomePage = /** @class */ (function () {
                 maxZoom: 17,
                 enableHighAccuracy: true
             }
-        }).addTo(map);
+        }).addTo(this.map);
         //Select our background layers - Usually from the Leaflet Layer Providers website
         //The first layer here will be the one which is 'switched on' when the user loads the page
         var OpenStreetMap_Mapnik = __WEBPACK_IMPORTED_MODULE_4_leaflet___default.a.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 18,
-            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            attribution: 'Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         });
-        map.addLayer(OpenStreetMap_Mapnik);
+        this.map.addLayer(OpenStreetMap_Mapnik);
         var Esri_WorldImagery = __WEBPACK_IMPORTED_MODULE_4_leaflet___default.a.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
             attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
         });
-        map.addLayer(Esri_WorldImagery);
+        this.map.addLayer(Esri_WorldImagery);
         // Assigning links for custom markers to add to the map 
         //custom tree icon
         var treeIcon = new __WEBPACK_IMPORTED_MODULE_4_leaflet___default.a.icon({
@@ -477,7 +477,7 @@ var HomePage = /** @class */ (function () {
         };
         // This creates the layer switcher in the top corner of the map container 
         // This allows you to switch between the layers - turning them on or off 
-        __WEBPACK_IMPORTED_MODULE_4_leaflet___default.a.control.layers(backgroundLayerNames, overlayGeoLayerNames).addTo(map);
+        __WEBPACK_IMPORTED_MODULE_4_leaflet___default.a.control.layers(backgroundLayerNames, overlayGeoLayerNames).addTo(this.map);
         // This is where Leaflet will go if you click on any of the objects which are in the
         // GeoJSON file
         function action_To_Perform_When_Feature_Is_Clicked_On_The_Map(feature, layer) {
@@ -523,6 +523,10 @@ var HomePage = /** @class */ (function () {
             }
         } // end of our STYLE DECISION for CLASSES or INTERVALS.
     };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* ViewChild */])('map'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* ElementRef */])
+    ], HomePage.prototype, "mapContainer", void 0);
     HomePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
             selector: 'page-home',template:/*ion-inline-start:"C:\Users\maloc\Desktop\Final Year project\Biomap\src\pages\home\home.html"*/'<ion-header>\n<ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Biodiversity Map</ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n  \n    <div #map id="map" style="width: 100vw; height: 100%"></div>\n</ion-content>'/*ion-inline-end:"C:\Users\maloc\Desktop\Final Year project\Biomap\src\pages\home\home.html"*/

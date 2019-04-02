@@ -7,9 +7,6 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "io.ionic.starter"
-    },
     "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "io.ionic.starter"
     },
@@ -27,6 +24,9 @@
       "PACKAGE_NAME": "io.ionic.starter"
     },
     "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "io.ionic.starter"
     }
   },

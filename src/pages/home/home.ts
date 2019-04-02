@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild, ElementRef } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { HttpClient } from '@angular/common/http';
 
@@ -13,14 +13,15 @@ import 'leaflet.locatecontrol';//import leaflet geolocation function
   templateUrl: 'home.html'
 })
 export class HomePage {
-  
+  @ViewChild('map') mapContainer: ElementRef;
+  map: any;
 
   constructor(public navCtrl: NavController, public http: HttpClient) {
 
   }
 
-   ionViewDidLoad() {
-    console.log('ionViewDidLoad Map/HomePage');
+   ionViewDidEnter() {
+    console.log('ionViewDidEnter Map/HomePage');
     this.loadmap();
   }
 
@@ -32,12 +33,12 @@ export class HomePage {
 
     //<!-- Here is the starting zoom level of our map -->
     var ZoomLevel = 15.4;
-    var map = L.map('map', {
+    this.map = L.map('map', {
       center: [LatitudeCenter, LongitudeCenter],
       zoom: ZoomLevel,
     });
 
-    
+
 
    //Adds locate button and locate function
      L.control.locate({
@@ -45,7 +46,7 @@ export class HomePage {
          maxZoom: 17, //set maxZoom for locate button
          enableHighAccuracy: true
        }
-     }).addTo(map);
+     }).addTo(this.map);
 
   
     //Select our background layers - Usually from the Leaflet Layer Providers website
@@ -53,14 +54,14 @@ export class HomePage {
 
     var OpenStreetMap_Mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
-      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+      attribution: 'Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     });
-    map.addLayer(OpenStreetMap_Mapnik);
+    this.map.addLayer(OpenStreetMap_Mapnik);
 
     var Esri_WorldImagery = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
       attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
     });
-    map.addLayer(Esri_WorldImagery);
+    this.map.addLayer(Esri_WorldImagery);
 
     // Assigning links for custom markers to add to the map 
                 //custom tree icon
@@ -375,7 +376,7 @@ var LyreenWalkLayer = L.layerGroup();//create lyreenWalkingRoute layer group
         // This creates the layer switcher in the top corner of the map container 
         // This allows you to switch between the layers - turning them on or off 
 
-        L.control.layers(backgroundLayerNames,overlayGeoLayerNames).addTo(map);
+        L.control.layers(backgroundLayerNames,overlayGeoLayerNames).addTo(this.map);
 
         // This is where Leaflet will go if you click on any of the objects which are in the
         // GeoJSON file
