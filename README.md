@@ -17,9 +17,9 @@ This will take a while to install the applications packages.
   "ionic serve" 
 This will serve the appliction on the browser
 
-alternative emulator, use command-
+ Alternative emulator, use command-
   "ionic lab" 
-will emulate the application for mobile platforms in the browser.
+ will emulate the application for mobile platforms in the browser.
 
 Click on the location button on the top left of the map, this needs to be done to force the map to load the layers, this only needs to be done in the emulators, 
 as the appllication works fine on an android device.
